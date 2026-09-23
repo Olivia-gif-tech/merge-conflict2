@@ -1,1 +1,2 @@
-# merge-conflict2
+Mon exercice Git 
+Je teste les conflits Git
