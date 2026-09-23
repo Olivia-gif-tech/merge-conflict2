@@ -1,2 +1,3 @@
-Mon exercice Git 
+LOCAL
 Je teste les conflits Git
+
